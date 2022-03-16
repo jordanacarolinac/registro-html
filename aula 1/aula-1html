@@ -1,0 +1,28 @@
+<body>
+    <img width="200" src=logo.jpg/> 
+    <h1>Registro HTC</h1>
+    <h2>Registre-se no melhor curso do Brasil</h2>
+    <form>
+        <label for="name.fild">Nome</label>
+        <input id="name.fild">
+        <br>
+        <br>
+        <label for="email.fild">E-mail</label>
+        <input type="email" id="email.fild">
+        <br>
+        <br>
+        <label for="password.fild">Senha</label>
+        <input id="password.fild" type="password">
+        <br>
+        <br>
+        <label for="confirm.password.fild">Confirmar Senha</label>
+        <input id="confirm.password.fild" type="password">
+        <br>
+        <br>
+        <input id="eula.fild" type="checkbox">
+        <label for="eula.fild">Aceito os <a target="_blank" href="EULA.html"> termos de uso</label>
+        <br>
+        <br>
+        <button>Registrar</button>
+    </form>
+</body>
